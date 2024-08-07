@@ -1,5 +1,5 @@
 # NBACP
-This repository showcases my personal project: National Basketball Association College to Professional (NBACP).
+This repository showcases my National Basketball Association College to Professional (NBACP) personal project.
 My project uses professional and college basketball data to predict NBA rookie season performance statistics in the 2024-25 regular season. 
 
 Process:
@@ -8,4 +8,4 @@ Process:
 3. Used data to trained regression models to predict rookie season performance statistics.
 4. Refined regression models using statistical tests. 
 
-Tools: Python, Jupyter Notebook, Scikit-learn python library, Pandas python library 
+Tools: Python, Jupyter Notebook, Scikit-learn Python library, Pandas Python library 
