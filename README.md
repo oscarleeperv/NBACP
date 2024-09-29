@@ -10,4 +10,4 @@ Process:
 5. Scraped data from [Sports-Reference.com](https://www.sports-reference.com/).
 6. Used models and data to predict the rookie season performance statistics for the first 10 college players selected in the 2024 NBA draft.
 
-Tools: Python, Jupyter Notebook, Scikit-learn Python library, Pandas Python library, BeautifulSoup4 Python Library 
+Tools: Python, Jupyter Notebook, Statsmodels module, Pandas Python module, BeautifulSoup4 Python module 
